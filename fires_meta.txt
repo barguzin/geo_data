@@ -1,0 +1,6 @@
+data from: CALFIRE
+source: https://frap.fire.ca.gov/mapping/gis-data/
+data description: https://frap.fire.ca.gov/frap-projects/fire-perimeters/
+- simplified geometry via GeoPandas
+- dropped records that had missing ALARM_DATE | CONT_DATE 
+- dropped some variables 
