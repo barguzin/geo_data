@@ -1,4 +1,9 @@
-# Geographic data for teaching geographic data science, intermediate geographic analysis and GISS course at UCSB 
+# Geographic data 
+
+## Used in the following geography courses taught at UC Santa Barbara
+
+* GEOG 172: Intermediate Geographic Analysis 
+* GEOG 176ABC: Geographic Information Systems and Science
 
 Various geographically-referenced data from open resources for teaching
 
