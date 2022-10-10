@@ -1,0 +1,2 @@
+data from: Kaggle
+source: https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?resource=download&select=GlobalLandTemperaturesByState.csv
