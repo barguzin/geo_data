@@ -1,0 +1,2 @@
+data from: GeoDat Data and Lab
+source: https://geodacenter.github.io/data-and-lab/snow/
